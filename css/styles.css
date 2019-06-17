@@ -53,6 +53,7 @@
 /* banner image styles */
 .banner img {
   width: 90%;
+  height: auto;
 }
 
 /* header styles for cards */
