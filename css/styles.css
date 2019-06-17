@@ -68,6 +68,10 @@
   box-shadow: 0px 8px 8px -8px #4a235a;
 }
 
+.header h2{
+  width: 100%;
+}
+
 /* styles for four cards */
 .cards {
   width: 22%;
